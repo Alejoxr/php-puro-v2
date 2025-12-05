@@ -2,7 +2,7 @@
 require_once "models/User.php";
 
 class Users{
-    // Cambios en las constantes para redirigir 
+    // Cambios en las constantes para redirigir
     private const LOCATION_DASHBOARD      = 'Location: ?c=Dashboard';
     private const LOCATION_ROL_READ       = 'Location: ?c=Users&a=rolRead';
     private const LOCATION_USER_READ      = 'Location: ?c=Users&a=userRead';
