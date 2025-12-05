@@ -3,7 +3,7 @@ require_once "models/User.php"; //NOSONAR: MVC sin namespaces, necesario cargar 
 
 class Login {
 
-    // Constantes reutilizables
+    // Constantes
     private const VIEW_LOGIN         = 'views/company/login.view.php';
     private const LOCATION_DASHBOARD = 'Location:?c=Dashboard';
 
