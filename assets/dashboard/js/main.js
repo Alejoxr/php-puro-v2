@@ -49,7 +49,7 @@ $(document).ready(function () {
             cancelButtonText: 'No, cancel'
         }).then((result) => {
             if (result.value) {
-                window.location = "index.html";
+                globalThis.location = "index.html";
             }
         });
     });
