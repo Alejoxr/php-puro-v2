@@ -102,7 +102,7 @@ strong {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 
-ccode,
+code,
 kbd,
 samp {
   font-family: monospace; /* 1 */
